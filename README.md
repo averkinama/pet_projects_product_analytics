@@ -22,4 +22,5 @@ ___
 - Компании, проводившей опрос, рекомендуется уточнить, качественно ли собраны данные о ментальном состоянии пользователей, точно ли они отвечали на вопросы, удовлетворябщие целям опроса и не исказились ли данные в процессе сбора информации. 
   
 [Ссылка на проект](https://github.com/averkinama/pet_projects_product_analytics/blob/main/social_media_%26_stress.ipynb)
-[Ссылка на датасет]()
+
+[Ссылка на датасет](https://github.com/averkinama/pet_projects_product_analytics/blob/main/mental_health_social_media_dataset.csv)
