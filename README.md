@@ -62,7 +62,7 @@ ___
 - complete_order - сделка состоялась, товар выкуплен
 - review_after_order - пользователь оставил отзыв после завершения сделки. 
   
-[Ссылка на проект](https://github.com/averkinama/pet_projects_product_analytics/blob/main/social_media_%26_stress.ipynb)
+[Ссылка на проект](https://github.com/averkinama/pet_projects_product_analytics/blob/main/avito.ipynb)
 
 [Ссылка на датасет](https://github.com/averkinama/pet_projects_product_analytics/blob/main/mental_health_social_media_dataset.csv)
 
